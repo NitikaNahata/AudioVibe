@@ -5,14 +5,17 @@ AudioVibe is a music platform that offers a vast catalog of music accessible to 
 
 # Key Functionalities
 1.	User Management:
+   
 o	Users can add personal information during sign-up.
 o	Users can update their information, including changing passwords.
 o	Deletion of personal information is also supported.
-2.	Playlist Management:
+
+3.	Playlist Management:
 o	Users have the ability to create playlists.
 o	Adding and deleting songs from playlists is supported.
 o	Users with subscriptions can skip advertisements during streaming.
-3.	Seamless Experience:
+
+5.	Seamless Experience:
 o	Robust identity management ensures secure user accounts.
 o	Secure transaction processing for premium subscriptions.
 o	Intuitive playlist management for personalized user experience.
