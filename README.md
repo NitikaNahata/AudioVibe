@@ -17,6 +17,9 @@ o	Robust identity management ensures secure user accounts.
 o	Secure transaction processing for premium subscriptions.
 o	Intuitive playlist management for personalized user experience.
 
+# ERD
+![ERD](https://github.com/user-attachments/assets/51f5eb00-ad45-42a9-acfe-ce868720f75d)
+
 # Data Sources and Tools
 Data Sources:
 •	Kaggle Dataset: TikTok Songs 2020
