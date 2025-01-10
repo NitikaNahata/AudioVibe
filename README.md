@@ -5,7 +5,6 @@ AudioVibe is a music platform that offers a vast catalog of music accessible to 
 
 # Key Functionalities
 1.	User Management:
-   
 o	Users can add personal information during sign-up.
 o	Users can update their information, including changing passwords.
 o	Deletion of personal information is also supported.
